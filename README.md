@@ -1,3 +1,3 @@
 # Choice-Repo
-## Editing hthe file
+## Editing the file
 Its a markdown file in this Repository.
